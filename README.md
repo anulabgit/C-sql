@@ -1,4 +1,4 @@
-1.(https://www.sqlite.org/download.html)에서 아래 파일 다운
+1. https://www.sqlite.org/download.html 에서 아래 파일 다운
 ![image](https://github.com/anulabgit/C-sql/assets/127391777/f5cb4de6-7200-4c43-b8c7-0cfb6f599f01)
 ![image](https://github.com/anulabgit/C-sql/assets/127391777/280c44d9-058a-4f47-8519-dcdd157fb34f)
 
