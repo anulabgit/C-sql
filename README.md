@@ -11,7 +11,7 @@
 4. lib /def:sqlite3.def /machine:x64을 통해 라이브러리 생성<br>
 ![image](https://github.com/anulabgit/C-sql/assets/127391777/acaee3cb-cd9b-46fc-8242-22671f12ea03)
 
-5. 헤더파일 C:\Cpp\Project\Project폴더 안에 넣기
+5. 헤더파일 C:\Cpp\Project\Project폴더 안에 넣기<br>
 ![image](https://github.com/anulabgit/C-sql/assets/127391777/8e5b97e9-1077-4b2e-911f-160d33228b79)
 
 6. 소스코드 안에 헤더파일 및 라이브러리를 사용하기 위한 다음코드 추가<br>
